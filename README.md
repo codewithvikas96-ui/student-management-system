@@ -19,6 +19,16 @@ A simple command-line based Student Management System built with Python and MySQ
 
 ---
 
+## 🖼️ Preview
+
+<img width="1919" height="1138" alt="VS-Code Output" src="https://github.com/user-attachments/assets/200c6b48-8a1e-4db9-b166-102f6f217ef0" />
+<br>
+
+<img width="1919" height="1139" alt="MySQL Output" src="https://github.com/user-attachments/assets/46e74994-bce1-4ca1-9016-b87535aca885" />
+
+
+
+---
 ## 🛠️ Technologies Used
 
 - Python 3.x
