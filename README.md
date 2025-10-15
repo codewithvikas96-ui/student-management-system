@@ -67,7 +67,7 @@ python src/main.py
 ---
 ## 📂 File Structure
 
-<p align = "center">
+<div align = "center">
 
 | File/Folder | Description |
 |:-------------:|:---------------------------------------------:|
@@ -76,4 +76,4 @@ python src/main.py
 | requirements.txt |	Python dependencies |
 | .gitignore |	Git ignore rules |
 
-</p>
+</div>
