@@ -69,4 +69,4 @@ python src/main.py
 
 | File/Folder | Description |
 |-------------|---------------------------------------------|
-| src/main.py | Main Python script with all CRUD operations |
+| <mark>src/main.py</mark> | Main Python script with all CRUD operations |
