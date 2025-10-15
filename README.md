@@ -59,3 +59,7 @@ pip install -r requirements.txt
       grade VARCHAR(2)
     );
    ```
+### 5. Run the application
+```bash
+python src/main.py
+```
