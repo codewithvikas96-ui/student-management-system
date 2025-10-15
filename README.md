@@ -31,6 +31,7 @@ A simple command-line based Student Management System built with Python and MySQ
 ```bash
 git clone https://github.com/codewithvikas96-ui/student-management-system.git
 ```
+### 2. Navigate inside the project folder
 ```bash
 cd student-management-system
 ```
