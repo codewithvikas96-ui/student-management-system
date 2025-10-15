@@ -35,3 +35,7 @@ git clone https://github.com/codewithvikas96-ui/student-management-system.git
 ```bash
 cd student-management-system
 ```
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
