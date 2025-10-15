@@ -45,3 +45,19 @@ pip install -r requirements.txt
    ```sql
    CREATE DATABASE student_db;
    ```
+ - Use the database:
+   ```sql
+   USE student_db;
+   ```
+   or just right click on the database (student_db) and click on 'Set as default Schema'
+ - Create the Students table:
+   ``sql
+
+CREATE TABLE Students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    age INT,
+    grade VARCHAR(2)
+);
+
+```
