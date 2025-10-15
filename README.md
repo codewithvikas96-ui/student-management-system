@@ -39,3 +39,9 @@ cd student-management-system
 ```bash
 pip install -r requirements.txt
 ```
+
+### 4. Set up the MySQL Database
+ - Open MySQL and create a database:
+   ```sql
+   CREATE DATABASE student_db;
+   ```
