@@ -3,6 +3,9 @@
 
 A simple command-line based Student Management System built with Python and MySQL. This project allows users to add, view, search, update, and delete student records from a MySQL database.
 
+<img width="1536" height="1024" alt="student-management-system" src="https://github.com/user-attachments/assets/27092aae-169f-49d5-9988-ca71201d764a" />
+
+
 ---
 
 ## 🚀 Features
@@ -77,3 +80,18 @@ python src/main.py
 | <b>.gitignore</b> |	Git ignore rules |
 
 </p>
+
+---
+
+## 🙌 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
+## 💡 Author
+Made with ❤️ by Vikas Vishwakarma
