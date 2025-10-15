@@ -63,3 +63,8 @@ pip install -r requirements.txt
 ```bash
 python src/main.py
 ```
+
+---
+## 📂 File Structure
+
+| File/Folder | Description |
