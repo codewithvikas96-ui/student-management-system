@@ -67,13 +67,13 @@ python src/main.py
 ---
 ## 📂 File Structure
 
-<div align = "center">
+<p align = "center">
 
 | File/Folder | Description |
 |:-------------:|:---------------------------------------------:|
-| <mark>src/main.py</mark> | Main Python script with all CRUD operations |
-| sql/create_table.sql	| SQL script to create the Students table |
-| requirements.txt |	Python dependencies |
-| .gitignore |	Git ignore rules |
+| <b>src/main.py</b> | Main Python script with all CRUD operations |
+| <b>sql/create_table.sql</b>	| SQL script to create the Students table |
+| <b>requirements.txt</b> |	Python dependencies |
+| <b>.gitignore</b> |	Git ignore rules |
 
-</div>
+</p>
