@@ -68,3 +68,5 @@ python src/main.py
 ## 📂 File Structure
 
 | File/Folder | Description |
+|-------------|---------------------------------------------|
+| src/main.py | Main Python script with all CRUD operations |
